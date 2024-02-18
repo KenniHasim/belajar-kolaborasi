@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Tes Squash 1
+Tes Squash 2
